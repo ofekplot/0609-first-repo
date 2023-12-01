@@ -8,7 +8,7 @@ def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
     x="yo"
-    print("yo" + {x})
+    print("yolo" + {x})
 
 def print_person_details(age, last_name):
     exchange_rate = 3.45
